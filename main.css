@@ -1,0 +1,214 @@
+/*
+.content-block-one {
+	margin-bottom: 0px;
+    margin-top: 0px;
+    padding-left: 10%;
+}*/
+
+.placeholder-one {
+	width: 310px;
+	height: 460px;
+	padding-left: 45px;
+	float: left;
+	padding-bottom: 10px;
+}
+
+.placeholder-two {
+	width: 310px;
+	height: 460px;
+	padding-left: 8%;
+	float: left;
+	padding-bottom: 10px;
+
+}
+
+.placeholder-three {
+	width: 310px;
+	height: 460px;
+	padding-left: 8%;
+	float: left;
+	padding-bottom: 0;
+	padding-right: 0;
+}
+
+.list-text-one {
+	width: 480px;
+	list-style-type: none;
+	height: 0;
+	padding-left: 80px;
+	padding-top: 480px;
+}
+
+.list-text-two {
+	color: #b8b8b8;
+	width: 300px;
+    padding-top: 30px;
+    padding-left: 140px;
+    list-style: none;
+    font-family:Verdana;
+}
+
+.button-radius {
+	border: 2px solid #DDDADA;
+    height: 22px;
+    width: 22px;
+    border-radius: 20px;
+    background: #ffffff;
+    position: relative;
+    left: 160px;
+    bottom: 13px;
+}
+
+.button-radius-one {
+    border: 3px solid #b8b8b8;
+    height: 12px;
+    width: 12px;
+    border-radius: 28px;
+    background: #b8b8b8;
+    list-style: none;
+    position: relative;
+    bottom: 14px;
+    right: 38px;
+}
+
+.button-radius-two {
+	border: 3px solid #190594;
+    height: 12px;
+    width: 12px;
+    border-radius: 28px;
+    background: #190594;
+    list-style: none;
+    position: relative;
+    bottom: 14px;
+    right: 38px;
+}
+
+.button-radius-three {
+	border: 3px solid #040407;
+    height: 12px;
+    width: 12px;
+    border-radius: 28px;
+    background: #040407;
+    list-style: none;
+    position: relative;
+    bottom: 14px;
+    right: 38px;
+}
+
+.button-radius-four {
+	border: 3px solid #F23640;
+    height: 12px;
+    width: 12px;
+    border-radius: 28px;
+    background: #F23640;
+    list-style: none;
+    position: relative;
+    bottom: 14px;
+    right: 38px;
+}
+
+.button-radius-five {
+	border: 3px solid #FEE1F8;
+    height: 12px;
+    width: 12px;
+    border-radius: 28px;
+    background: #FEE1F8;
+    list-style: none;
+    position: relative;
+    bottom: 14px;
+    right: 38px;
+}
+
+.button-list {
+	border: 2px solid #DDDADA;
+    height: 22px;
+    width: 22px;
+    border-radius: 20px;
+    background: #ffffff;
+    position: relative;
+    left: 190px;
+    bottom: 38px;
+}
+.button-div {
+	border: 2px solid #DDDADA;
+    height: 22px;
+    width: 22px;
+    border-radius: 20px;
+    background: #ffffff;
+    position: relative;
+    left: 220px;
+    bottom: 64px;
+}
+
+.button-content {
+	position: relative;
+    right: 32px;
+    top: 8px;
+
+}  
+
+.button-div-four {
+	border: 2px solid #DDDADA;
+    height: 22px;
+    width: 22px;
+    border-radius: 20px;
+    background: #ffffff;
+    position: relative;
+    left: 250px;
+    bottom: 89px;
+}
+
+.button-div-five {
+	border: 2px solid #DDDADA;
+    height: 22px;
+    width: 22px;
+    border-radius: 20px;
+    background: #ffffff;
+    position: relative;
+    left: 280px;
+    bottom: 114.1px;
+}
+
+.first-image {
+	height: 0;
+}
+
+.fleece-image {
+	width: 310px;
+	height: 460px;
+	position: relative;
+	top: 120px;
+	right: 724px;
+}
+
+.space-dye {
+	width: 310px;
+	height: 460px;
+	position: relative;
+	left: 449px;
+	bottom: 410px;
+}
+
+.capri-leggings {
+	width: 310px;
+	height: 460px;
+	position: relative;
+	left: 863px;
+	bottom: 870px;
+}
+
+.fleece-image-list {
+	position: relative;
+    top: 115px;
+    left: 87px;
+    list-style-type: none;
+}
+
+.fleece-price {
+	position: relative;
+	top: 125px;
+	list-style-type: none;
+	left: 122px;
+
+}
+   
