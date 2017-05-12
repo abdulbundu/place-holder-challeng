@@ -1,0 +1,92 @@
+.product-grid {
+
+}
+
+.holder-image {
+  width: 25%;
+  padding: 20px 20px 0 20px;
+  display: inline;
+  margin: 0;
+}
+
+
+.text {
+	list-style-type: none;
+    width: 28%;
+    text-align: center;
+}
+
+.product-text {
+    list-style-type: none;
+    width: 20%;
+    margin: 0;
+    padding-left: 4%;
+}
+
+.product-price {
+    color: #b8b8b8;
+    list-style-type: none;
+    font-family: Verdana;
+    padding-left: 8%;
+}
+
+.slash-price {
+	list-style-type: none;
+    text-decoration: line-through;
+    color: red;
+}
+
+.swatch-outer {
+	border: 2px solid #DDDADA;
+    height: 22px;
+    width: 22px;
+    border-radius: 20px;
+    background: #ffffff;
+    list-style-type: none;
+    padding: 1px 0 0 1px;
+    display: inline-block;
+
+}
+
+.swatch-inner--blue {
+	border: 3px solid #190594;
+    background: #190594;
+}
+
+.swatch-inner--black {
+	border: 3px solid #040407;
+    background: #040407;
+}
+
+.swatch-inner--pink {
+	border: 3px solid #FEE1F8;
+    background: #FEE1F8;
+}
+
+.swatch-inner--red {
+	border: 3px solid #F23640;
+    background: #F23640;
+}
+
+.swatch-inner--gray {
+	border: 3px solid #b2b2b2;
+    background: #b2b2b2;
+}
+
+.swatch-inner {
+	height: 15px;
+    width: 15px;
+    border-radius: 28px;
+    list-style-type: none;
+    display: inline-block;
+}
+
+.text-container {
+	margin-top: 6px;
+    margin-bottom: 5px;
+
+}
+.swatch-container {
+	margin-left: 7%;
+	margin-right: 0;
+}
