@@ -1,33 +1,31 @@
-.product-grid {
 
+.product-item {
+    float: left;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
-.holder-image {
-  width: 25%;
-  padding: 20px 20px 0 20px;
-  display: inline;
-  margin: 0;
+.product-summary {
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 2px;
+    margin-top: 4px;
 }
 
-
-.text {
-	list-style-type: none;
-    width: 28%;
-    text-align: center;
+h3 {
+    padding-left: 90px;
+    padding-bottom: 5px;
+    margin: inherit;
+    font-family: Lucida Sans Unicode; 
+    font-weight: normal;
+    font-size: 14px;
 }
 
-.product-text {
-    list-style-type: none;
-    width: 20%;
-    margin: 0;
-    padding-left: 4%;
-}
-
-.product-price {
+p {
     color: #b8b8b8;
-    list-style-type: none;
-    font-family: Verdana;
-    padding-left: 8%;
+    padding-left: 120px;
+    margin-top: 2px;
+    margin-bottom: 2px;
 }
 
 .slash-price {
@@ -36,16 +34,29 @@
     color: red;
 }
 
+.swatch {
+    list-style-type: none;
+    padding-left: 80px;
+    margin-bottom: 20px;
+    margin-top: 2px;
+   }
+
+.swatch-align {
+    list-style-type: none;
+    margin-left: 23%;
+    margin-top: 2px;
+    margin-bottom: 20px;
+}
+
 .swatch-outer {
 	border: 2px solid #DDDADA;
     height: 22px;
     width: 22px;
-    border-radius: 20px;
+    border-radius: 28px;
     background: #ffffff;
     list-style-type: none;
-    padding: 1px 0 0 1px;
+    padding: 1px 1px 0 ;
     display: inline-block;
-
 }
 
 .swatch-inner--blue {
@@ -76,7 +87,7 @@
 .swatch-inner {
 	height: 15px;
     width: 15px;
-    border-radius: 28px;
+    border-radius: 15px;
     list-style-type: none;
     display: inline-block;
 }
@@ -89,4 +100,31 @@
 .swatch-container {
 	margin-left: 7%;
 	margin-right: 0;
+}
+
+.container {
+    position: relative;
+    width: 50%;
+    display: inline;
+}
+
+.text-hover {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  left: 20%;
+  bottom:15px;
+  transform: none;
+}
+
+.container:hover .text-hover {
+  opacity: 1;
+}
+
+.text {
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+  font-weight: bold;
+  border: 2px solid blue;
 }
