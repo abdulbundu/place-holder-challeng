@@ -1,18 +1,25 @@
+body {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
 
 .image {
     width: 100%;
-    display: inline;
+    display: inline-block;
+    text-align: center;
 }
 
 .product {
     display: inline;
     width: 100%;
+    text-align: center;
 }
 
 .product-item {
     display: inline-block;
     width: 25%; 
-    margin: 0 35px 10px 35px;
+    padding: 30px;
 }
 
 /*.swatch-align-space {
